@@ -51,8 +51,8 @@
 <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="typescript">
- <h3 align="right"> <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px">  </picture>Frontend</h3>
- <p align="right"> 
+ <h3 align="left"> <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px">  </picture>Frontend</h3>
+ <p align="left"> 
  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
@@ -75,8 +75,8 @@
 </p>
 
   </a>
-  <h3 align="right"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="20px">  </picture>Database</h3>
-  <p align="right"> 
+  <h3 align="left"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="20px">  </picture>Database</h3>
+  <p align="left"> 
     <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="postgresql"> 
   </a>
@@ -93,8 +93,8 @@
   <h3 align="left">Hoisting</h3>
   <p align="left">  <a href="https://netlify.com/" target="_blank"><img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=black" alt="firebase"></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="vercel"></a></p>
-  <h3 align="right"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px">  </picture>Version Control</h3>
-    <p align="right"> 
+  <h3 align="left"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px">  </picture>Version Control</h3>
+    <p align="left"> 
     <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
   </a>
