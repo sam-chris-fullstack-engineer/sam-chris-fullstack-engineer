@@ -1,6 +1,6 @@
 <h3 align="center">
 
-![Custom Greeting Banner](https://drive.google.com/uc?export=view&id=13EFpBQfFLu7d6UZR3Wc1WK5_JkeY7vHl)
+![Custom Greeting Banner](https://github.com/sam-chris-fullstack-engineer/github-profile-gif/blob/main/Professional%20LinkedIn%20Banner%20(1).gif)
 
 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "3%" >
