@@ -34,7 +34,7 @@
 <h3>Connect with me:</h3>
 <p>
 <a href="https://x.com/its_sam_chris" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_sam_chris" height="30" width="40" /></a>
-<a href="https://www.instagram.com/code._.bruh/" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code._.bruh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its_s4m.chrizz/" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_s4m.chrizz" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/sam-chris-full-stack-engineer/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
 </a>
 </p>
